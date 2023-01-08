@@ -15,7 +15,7 @@ nav: true
 
 
 ### Deep Representation Learning and Retrieval
-- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//E.233.pdf">C. Nasioutzikis, M. Tzelepi and A. Tefas, "Deep Hashing Regularization Towards Hamming Space Retrieval", 11th Hellenic Conference on Artificial Intelligence, ACM, , Virtual Conference, 2020</a>
+- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//E.233.pdf">C. Nasioutzikis, M. Tzelepi and A. Tefas, "Deep Hashing Regularization Towards Hamming Space Retrieval", 11th Hellenic Conference on Artificial Intelligence (SETN), 2020</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Convolutional%20Learning.pdf">M. Tzelepi and A. Tefas, "Deep Convolutional Learning for Content Based Image Retrieval", Neurocomputing, 2018</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Exploiting%20tfidf%20Networks%20for%20Content%20Based%20Image%20Retrieval.pdf">N. Kondylidis, M. Tzelepi and A. Tefas, "Exploiting tf-idf in Deep Convolutional Neural Networks for Content Based Image Retrieval", Multimedia Tools and Applications, 2018</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Convolutional%20Image%20Retrieval%20A%20General.pdf">M. Tzelepi and A. Tefas, "Deep Convolutional Image Retrieval: A General Framework", Signal Processing: Image Communication, 2018</a>
@@ -35,14 +35,14 @@ nav: true
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Real-time%20synthetic-to-real%20human%20detection%20for%20robotics%20applications.pdf">M. Tzelepi, C. Symeonidis, N. Nikolaidis and A. Tefas, "Real-time synthetic-to-real human detection for robotics applications", 13th IEEE International Conference on Information, Intelligence, Systems and Applications (IISA), 2022</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Improving%20binary%20semantic%20scene%20segmentation%20for%20robotics%20applications.pdf">M. Tzelepi, N. Tragkas and A. Tefas, "Improving binary semantic scene segmentation for robotics applications", 23rd International Conference on Engineering Applications of Neural Networks (EANN), 2022</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//E.249%20Tzelepi_IISA2021.pdf">M. Tzelepi and A. Tefas, "Semantic Scene Segmentation for Robotics Applications", 12th International Conference on Information, Intelligence, Systems and Applications (IISA), 2021</a>
-- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Kakaletsis_MMM.pdf">E. Kakaletsis, M. Tzelepi, P. I. Kaplanoglou, C. Symeonidis, N. Nikolaidis, A. Tefas and I. Pitas, "Semantic Map Annotation Through UAV Video Analysis Using Deep Learning Models in ROS", Proceedings of the International Conference on MultiMedia Modeling (MMM), 2019</a>
+- <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Kakaletsis_MMM.pdf">E. Kakaletsis, M. Tzelepi, P. I. Kaplanoglou, C. Symeonidis, N. Nikolaidis, A. Tefas and I. Pitas, "Semantic Map Annotation Through UAV Video Analysis Using Deep Learning Models in ROS", International Conference on MultiMedia Modeling (MMM), 2019</a>
 
 
 
 ### Timeseries Analysis and Forecasting
 - M. Tzelepi, A. Sapountzaki, N. Maragkos and A. Tefas," Online Self-Distillation for Electric Load Demand Forecasting on Greek Energy Market", PAnhellenic Conference on Electronics and Telecommunications (PACET), 2022
 - G. Emmanouilidis, M. Tzelepi and A. Tefas, "Short-Term Electric Load Demand Forecasting on Greek Energy Market using Deep Learning: A comparative study", PAnhellenic Conference on Electronics and Telecommunications (PACET), 2022
-- M. Tzelepi and A. Tefas, "Forecasting day-ahead electric load demand on Greek Energy Market", 13thIEEE International Conference on Information, Intelligence, Systems and Applications (IISA), 2022
+- M. Tzelepi and A. Tefas, "Forecasting day-ahead electric load demand on Greek Energy Market", 13th IEEE International Conference on Information, Intelligence, Systems and Applications (IISA), 2022
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Electric%20load%20demand%20forecasting%20on%20Greek%20Energy%20Market%20using%20lightweight%20neural%20networks.pdf">N. Maragkos, M. Tzelepi, N. Passalis, A. Adamakos and A. Tefas, "Electric load demand forecasting on Greek Energy Market using lightweight neural networks", IEEE Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022</a>
 
 
