@@ -25,7 +25,7 @@ nav: true
 
 
 ### Regularization in Deep Learning
-- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Improving%20the%20performance%20of%20lightweight%20CNNs%20for%20binary%20classification%20using%20Quadratic%20Mutual.pdf">M. Tzelepi and A. Tefas, "Improving the performance of lightweight CNNs for binary classification using Quadratic Mutual Information regularization", 2020</a>
+- <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Improving%20the%20performance%20of%20lightweight%20CNNs%20for%20binary%20classification%20using%20Quadratic%20Mutual.pdf">M. Tzelepi and A. Tefas, "Improving the performance of lightweight CNNs for binary classification using Quadratic Mutual Information regularization", Pattern Recognition, 2020</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Tzelepi_TETCI.pdf">M. Tzelepi and A. Tefas, "Graph Embedded Convolutional Neural Networks in Human Crowd Detection for Drone Flight Safety", IEEE Transactions on Emerging Topics in Computational Intelligence, 2019</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Tzelepi_NEPL.pdf">M. Tzelepi and A. Tefas, "Class-Specific Discriminant Regularization in realtime deep CNN models for binary classification problems", Springer Neural Processing Letters, 2019</a>
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Tzelepi_EUSIPCO2019.pdf">M. Tzelepi and A. Tefas, "Improving the Performance of Lightweight CNN Models Using Minimum Enclosing Ball Regularization", 27th European Signal Processing Conference (EUSIPCO), 2019</a>
