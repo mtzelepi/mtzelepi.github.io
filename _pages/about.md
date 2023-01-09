@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 ### About me
 
 
-I am a postdoctoral researcher in the <a href="https://www.csd.auth.gr/en/">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki (AUTh)</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning</a> research group on European and national funded research projects. 
+I am a postdoctoral researcher in the <a href="https://www.csd.auth.gr/en/">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki (AUTh)</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning</a> group on European and national funded research projects. 
 I hold a BSc, an MSc and a PhD in Informatics from AUTh, since 2013, 2016, and 2021, respectively. 
-My <a href="research">research</a> interests lie in the area of *Deep Learning*, focusing on a broad spectrum of research topics, ranging from representation learning and retrieval to robotics perception and timeseries analysis and forecasting.
+My <a href="research">research</a> interests lie in the area of *Deep Learning*, focusing on a broad spectrum of topics, ranging from representation learning and retrieval to robotics perception and timeseries analysis and forecasting.
 
 
 
