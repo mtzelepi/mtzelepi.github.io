@@ -28,7 +28,7 @@
   contents:
     - title: Postdoctoral Researcher
       institution: Dept. of Informatics, AUTh
-      year: 2021 - today
+      year: 2021 - present
     - title: Researcher
       institution: Dept. of Informatics, AUTh
       year: 2017 - 2021
@@ -46,6 +46,11 @@
       description: 
         - Open Deep Learning Toolkit for Robotics
         - H2020
+    - title: <a href="https://deepfinance.csd.auth.gr/">DeepFinance</a>
+      year: 2020 - 2023
+      description: 
+        - Deep Learning for Intelligent Financial Portfolio Management Leveraging Semantic Analysis of Social Media
+        - EPAnEK 2014-2020
     - title: <a href="https://malena.csd.auth.gr/">MALENA</a>
       year: 2020 - 2023
       description: 
@@ -58,7 +63,7 @@
     - title: Deep Learning Techniques in Digital Media
       year: 2017 - 2020
       description: 
-        - PhD research grant from General Secretariat for Research and Technology (GSRT) and the Hellenic Foundation for Research  and Innovation (HFRI)
+        - PhD research grant from the General Secretariat for Research and Technology (GSRT) and the Hellenic Foundation for Research and Innovation (HFRI)
     - title: <a href="https://multidrone.eu/">MULTIDRONE</a>
       year: 2017 - 2019
       description: 
