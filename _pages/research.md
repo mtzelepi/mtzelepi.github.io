@@ -40,8 +40,9 @@ nav: true
 
 
 ### Timeseries Analysis and Forecasting
+- M. Tzelepi, P. Nousi and A. Tefas, “Improving Electric Load Demand Forecasting with Anchor-based Forecasting Method”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+- A. Andronikos, M. Tzelepi and A. Tefas, “Residual Error Learning for Electricity Demand Forecasting”, International Conference on Engineering Applications of Neural Networks (EANN), 2023
 - M. Tzelepi, A. Sapountzaki, N. Maragkos and A. Tefas," Online Self-Distillation for Electric Load Demand Forecasting on Greek Energy Market", PAnhellenic Conference on Electronics and Telecommunications (PACET), 2022
-- G. Emmanouilidis, M. Tzelepi and A. Tefas, "Short-Term Electric Load Demand Forecasting on Greek Energy Market using Deep Learning: A comparative study", PAnhellenic Conference on Electronics and Telecommunications (PACET), 2022
 - M. Tzelepi and A. Tefas, "Forecasting day-ahead electric load demand on Greek Energy Market", 13th IEEE International Conference on Information, Intelligence, Systems and Applications (IISA), 2022
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Electric%20load%20demand%20forecasting%20on%20Greek%20Energy%20Market%20using%20lightweight%20neural%20networks.pdf">N. Maragkos, M. Tzelepi, N. Passalis, A. Adamakos and A. Tefas, "Electric load demand forecasting on Greek Energy Market using lightweight neural networks", IEEE Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022</a>
 
