@@ -15,6 +15,7 @@ nav: true
 
 
 ### Deep Representation Learning and Retrieval
+- D. Moralis, M. Tzelepi and A. Tefas, “Retrieval-based methodology for few-sample logo recognition”, IEEE International Workshop on Multimedia Signal Processing (MMSP), 2023
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//E.233.pdf">C. Nasioutzikis, M. Tzelepi and A. Tefas, "Deep Hashing Regularization Towards Hamming Space Retrieval", 11th Hellenic Conference on Artificial Intelligence (SETN), 2020</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Deep%20Convolutional%20Learning.pdf">M. Tzelepi and A. Tefas, "Deep Convolutional Learning for Content Based Image Retrieval", Neurocomputing, 2018</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Exploiting%20tfidf%20Networks%20for%20Content%20Based%20Image%20Retrieval.pdf">N. Kondylidis, M. Tzelepi and A. Tefas, "Exploiting tf-idf in Deep Convolutional Neural Networks for Content Based Image Retrieval", Multimedia Tools and Applications, 2018</a>
