@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher <a href='https://cidl.csd.auth.gr/'>@CIDL/AUTh</a>
+subtitle: Postdoctoral Researcher <a href='https://idt.iti.gr/index.html'>@IDT/ITI</a>
 
 profile:
   align: right
   image: me.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Dept. of School of Informatics, AUTh</p>
-    <p>Ethnikis Antistaseos 16, Kalamaria, 55133</p>
+    <p>Information Technologies Institute</p>
+    <p>Centre for Research and Technology Hellas</p>
     <p>Thessaloniki, Greece</p>
  
 
@@ -23,8 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ### About me
 
 
-I am a postdoctoral researcher in the <a href="https://www.csd.auth.gr/en/">Department of Informatics</a> of <a href="http://www.auth.gr/en">Aristotle University of Thessaloniki (AUTh)</a>, working in the <a href="https://cidl.csd.auth.gr/">Computational Intelligence and Deep Learning</a> group on European and national funded research projects. 
-I hold a BSc, an MSc and a PhD in Informatics from AUTh, since 2013, 2016, and 2021, respectively. 
+I am a postdoctoral researcher with the <a href="https://www.iti.gr/iti/en/home/"> Information Technologies Institute (ITI)</a> /<a href="https://www.certh.gr/root.el.aspx">Centre for Research and Technology Hellas (CERTH)</a>, working in the <a href="https://idt.iti.gr/index.html">Intelligent Digital Transformation Laboratory</a>. Previously, I was working as a postdoctoral researcher at the <a href="https://cidl.csd.auth.gr/"> Computational Intelligence and Deep Learning (CIDL)</a> research group. I hold a BSc, an MSc and a PhD in Informatics from AUTh, since 2013, 2016, and 2021, respectively. 
 My <a href="research">research</a> interests lie in the area of *Deep Learning*, focusing on a broad spectrum of topics, ranging from representation learning and retrieval to robotics perception and timeseries analysis and forecasting.
 
 
