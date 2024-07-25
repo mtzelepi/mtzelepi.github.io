@@ -2,11 +2,11 @@
 layout: page
 permalink: /research/
 title: Research
-description: Selected papers of my research grouped into research topics. A full list my published papers can be found at: [Google Scholar](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl)
+description: Selected papers of my research grouped into research topics.
 nav: true
 ---
 
-
+A full list my published papers can be found at: [Google Scholar](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl)
 ### Deep Knowledge Distillation
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Multilayer-Online-Self-Acquired-Knowledge-Distillation-ICPR-2022.pdf">M. Tzelepi, C. Symeonidis, N. Nikolaidis and A. Tefas, "Multilayer Online Self-Acquired Knowledge Distillation", 26th International Conference on Pattern Recognition (ICPR), 2022</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Probabilistic%20Online%20Self%20Distillation.pdf">M. Tzelepi, N. Passalis and A. Tefas, "Probabilistic Online Self-Distillation", Neurocomputing, 2022</a>
