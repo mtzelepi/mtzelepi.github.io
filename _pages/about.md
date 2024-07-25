@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher <a href='https://idt.iti.gr/index.html'>@IDT/ITI</a>
+subtitle: Postdoctoral Researcher <a href='https://www.iti.gr/iti/en/home/'>@ITI/CERTH</a>
 
 profile:
   align: right
