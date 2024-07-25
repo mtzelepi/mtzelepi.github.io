@@ -1,0 +1,53 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Maria Tzelepi
+    - name: Languages
+      value: Greek, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Dept. of Informatics, AUTh
+      year: 2021
+      description:
+        - Deep Learning Techniques in Digital Media
+    - title: Msc
+      institution: Dept. of Informatics, AUTh
+      year: 2016
+      description:
+        - Digital Media - Computational Intelligence
+    - title: Bsc
+      institution: Dept. of Informatics, AUTh
+      year: 2013
+
+- title: Research and Professional Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Information Technologies Institute, CERTH
+      year: 2023 - Present
+    - title: Postdoctoral Researcher
+      institution: Dept. of Informatics, AUTh
+      year: 2021 - 2023
+    - title: Researcher
+      institution: Dept. of Informatics, AUTh
+      year: 2017 - 2021
+      
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - Greek Women in STEM award in Technology, issued by <a href="https://greekwomeninstem.com/">Greek Women in STEM</a>
+        - Best 2020-2021 Doctoral Thesis in the Area of Artificial Intelligence, issued by the <a href="https://www.eetn.gr/en/">Hellenic Artificial Intelligence Society (EETN)</a>
+    - year: 2018
+      items: 
+        - Among 5 Best Student Papers ("Fully Unsupervised Convolutional Learning for Fast Image Retrieval"), issued by the Hellenic Conference on Artificial Intelligence (SETN)
+    - year: 2017
+      items: 
+        - PhD Scholariship, issued by the General Secretariat for Research and Technology (GSRT) and the Hellenic Foundation for Research and Innovation (HFRI)
+
