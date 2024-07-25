@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Selected papers of my research grouped into research topics
+description: Selected papers of my research grouped into research topics. A full list my published papers can be found at: [Google Scholar](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl)
 nav: true
 ---
 
