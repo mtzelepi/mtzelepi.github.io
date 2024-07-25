@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Selected papers of my research grouped into research topics.
+description: Selected papers of my research grouped into research topics
 nav: true
 ---
 
