@@ -7,6 +7,13 @@ nav: true
 ---
 
 A full list of my published papers can be found at: [Google Scholar](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl)
+### LMMs for Vision Recognition Tasks
+- <a href="https://arxiv.org/pdf/2504.09914">M. Tzelepi and V. Mezaris, “Improving multimodal hateful meme detection exploiting LMM-generated knowledge”, Multimodal Learning and Applications (MULA) Workshop at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</a>
+- <a href="https://arxiv.org/pdf/2412.11663">M. Tzelepi and V. Mezaris, “LMM-Regularized CLIP Embeddings for Image Classification”, IEEE International Symposium on Multimedia (ISM), 2024</a>
+- <a href="https://arxiv.org/pdf/2406.12668?">M. Tzelepi and V. Mezaris,  “Disturbing Image Detection Using LMM-Elicited Emotion Embeddings”, Integrating Image Processing with Large-Scale Language/Vision Models for Advanced Visual Understanding (LVLM) Workshop at IEEE International Conference on Image Processing (ICIP), 2024</a>
+- <a href="https://arxiv.org/pdf/2406.03071">M. Tzelepi and V. Mezaris,  “Exploiting LMM-based knowledge for image classification tasks”, International Conference on Engineering Applications of Neural Networks (EANN), 2024</a>
+
+
 ### Deep Knowledge Distillation
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Multilayer-Online-Self-Acquired-Knowledge-Distillation-ICPR-2022.pdf">M. Tzelepi, C. Symeonidis, N. Nikolaidis and A. Tefas, "Multilayer Online Self-Acquired Knowledge Distillation", 26th International Conference on Pattern Recognition (ICPR), 2022</a>
 - <a href="https://cidl.csd.auth.gr/resources/journal_pdfs//Probabilistic%20Online%20Self%20Distillation.pdf">M. Tzelepi, N. Passalis and A. Tefas, "Probabilistic Online Self-Distillation", Neurocomputing, 2022</a>
@@ -41,10 +48,10 @@ A full list of my published papers can be found at: [Google Scholar](https://sch
 
 
 ### Timeseries Analysis and Forecasting
+- O. Stentoumi, P. Nousi, M. Tzelepi and A. Tefas, “AnIO: Anchored Input-Output Learning for Time-series Forecasting”, Neural Computing and Applications, 2024
 - M. Tzelepi, P. Nousi and A. Tefas, “Improving Electric Load Demand Forecasting with Anchor-based Forecasting Method”, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
 - A. Andronikos, M. Tzelepi and A. Tefas, “Residual Error Learning for Electricity Demand Forecasting”, International Conference on Engineering Applications of Neural Networks (EANN), 2023
 - M. Tzelepi, A. Sapountzaki, N. Maragkos and A. Tefas," Online Self-Distillation for Electric Load Demand Forecasting on Greek Energy Market", PAnhellenic Conference on Electronics and Telecommunications (PACET), 2022
-- M. Tzelepi and A. Tefas, "Forecasting day-ahead electric load demand on Greek Energy Market", 13th IEEE International Conference on Information, Intelligence, Systems and Applications (IISA), 2022
 - <a href="https://cidl.csd.auth.gr/resources/conference_pdfs//Electric%20load%20demand%20forecasting%20on%20Greek%20Energy%20Market%20using%20lightweight%20neural%20networks.pdf">N. Maragkos, M. Tzelepi, N. Passalis, A. Adamakos and A. Tefas, "Electric load demand forecasting on Greek Energy Market using lightweight neural networks", IEEE Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022</a>
 
 
