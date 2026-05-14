@@ -8,10 +8,12 @@ nav: true
 
 A full list of my published papers can be found at: [Google Scholar](https://scholar.google.gr/citations?user=ZMOW1K0AAAAJ&hl)
 ### LMMs for Vision Recognition Tasks
+- M. Tzelepi  N. Dimitriou, C. Gkogkos and D. Tzovaras, “Improving zero-shot industrial defect detection exploiting LMMs as inverse reasoners”, IEEE International Conference on Image Processing (ICIP), 2026
+- M. Tzelepi  N. Dimitriou, C. Gkogkos and D. Tzovaras, “LMM-assisted Subclass-Aware Zero-Shot Industrial Defect Detection”, European Signal Processing Conference (EUSIPCO), 2026
 - <a href="https://arxiv.org/pdf/2504.09914">M. Tzelepi and V. Mezaris, “Improving multimodal hateful meme detection exploiting LMM-generated knowledge”, Multimodal Learning and Applications (MULA) Workshop at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025</a>
 - <a href="https://arxiv.org/pdf/2412.11663">M. Tzelepi and V. Mezaris, “LMM-Regularized CLIP Embeddings for Image Classification”, IEEE International Symposium on Multimedia (ISM), 2024</a>
 - <a href="https://arxiv.org/pdf/2406.12668?">M. Tzelepi and V. Mezaris,  “Disturbing Image Detection Using LMM-Elicited Emotion Embeddings”, Integrating Image Processing with Large-Scale Language/Vision Models for Advanced Visual Understanding (LVLM) Workshop at IEEE International Conference on Image Processing (ICIP), 2024</a>
-- <a href="https://arxiv.org/pdf/2406.03071">M. Tzelepi and V. Mezaris,  “Exploiting LMM-based knowledge for image classification tasks”, International Conference on Engineering Applications of Neural Networks (EANN), 2024</a>
+
 
 
 ### Deep Knowledge Distillation
